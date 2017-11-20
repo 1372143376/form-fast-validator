@@ -1,0 +1,27 @@
+
+label {
+  position: relative;
+  display: block; 
+}
+
+.field-name {
+  display: inline-block;
+  width: 80px;
+  text-align: right;
+  margin-right: 10px; 
+}
+
+button {
+  margin-top: 10px; 
+  margin-left: 95px;
+  width: 174px;
+}
+
+
+.red {
+  font-weight: 900;
+  font-size: 90%;
+  margin-left: 10px;
+  color: red;
+}
+
